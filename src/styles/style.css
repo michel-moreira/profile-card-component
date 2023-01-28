@@ -29,6 +29,7 @@ main {
   justify-content: center;
   align-items: center;
   margin: 0 2rem;
+  box-shadow: 2px 4px 12px 3px var(--dark-grayish-blue);
 }
 .container-card:hover {
   box-shadow: 2px 4px 12px 3px var(--very-dark-desaturatedlue);
