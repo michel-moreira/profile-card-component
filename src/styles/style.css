@@ -121,6 +121,6 @@ main {
   }
   @media (hover: none) {
     .container-card:hover {
-      box-shadow: none;
+      box-shadow: 2px 4px 12px 3px var(--dark-grayish-blue)
     }
   }
