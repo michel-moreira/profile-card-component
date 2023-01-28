@@ -32,8 +32,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-preview-with-css-flexbox-and-semantic-html-crO3hzbkps)
+- Live Site URL: [Github Pages](https://michel-moreira.github.io/profile-card-component/)
 
 ## My process
 
