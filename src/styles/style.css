@@ -29,6 +29,7 @@ main {
   justify-content: center;
   align-items: center;
   margin: 0 2rem;
+  transition: 0.3s ease-in-out;
   box-shadow: 2px 4px 12px 3px var(--dark-grayish-blue);
 }
 .container-card:hover {
@@ -36,7 +37,7 @@ main {
 }
 
 /* =============================== */
-.container-card .top-card {
+.container-card .header-card {
   background-image: url(../images/bg-pattern-card.svg);
   width: 100%;
   display: flex;
@@ -44,7 +45,7 @@ main {
   border-radius: 2rem 2rem 0 0;
   margin-bottom: 7rem;
 }
-.container-card .top-card .profile-image {
+.container-card .header-card .profile-image {
   border-radius: 50%;
   border: 5px solid #ffffff;
   margin-top: 4.2rem;
